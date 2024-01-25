@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+My first Git repository
+
+## About me
+I'm 26 and study in Strasbourg
